@@ -1,0 +1,4 @@
+{
+  "volcano": {"scene": "res://scenes/arenas/Arena_Volcano.tscn", "name_key": "arena_volcano", "desc_key": "arena_volcano_desc"},
+  "frozen": {"scene": "res://scenes/arenas/Arena_Frozen.tscn", "name_key": "arena_frozen", "desc_key": "arena_frozen_desc"}
+}

@@ -1,0 +1,20 @@
+[gd_resource type="Resource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/combat/FighterData.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+fighter_id = &"shadow_decoy"
+name_key = "fighter_shadow"
+title_key = "fighter_shadow_title"
+desc_key = "fighter_shadow_desc"
+element = &"shadow"
+max_hp = 1.0
+move_speed = 0.0
+damage_mult = 0.0
+defense = 0.0
+ability1_id = &"light_punch"
+ability2_id = &"light_punch"
+ultimate_id = &"shadow_realm"
+arm_color = Color(0.55, 0.3, 1, 0.6)
+difficulty_note = "decoy"

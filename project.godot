@@ -1,0 +1,71 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[animation]
+
+compatibility/default_parent_skeleton_in_mesh_instance_3d=true
+
+[application]
+
+config/name="DRAA — دراع"
+config/description="Arabic-first 3D party + fantasy fighting game. One magical combat arm."
+run/main_scene="res://scenes/main/Main.tscn"
+config/features=PackedStringArray("4.7", "Mobile")
+boot_splash/bg_color=Color(0.09, 0.06, 0.04, 1)
+
+[autoload]
+
+SaveManager="*res://scripts/save/SaveManager.gd"
+LocalizationManager="*res://scripts/core/LocalizationManager.gd"
+AudioManager="*res://scripts/audio/AudioManager.gd"
+GameManager="*res://scripts/core/GameManager.gd"
+NetworkManager="*res://scripts/multiplayer/NetworkManager.gd"
+DebugOverlay="*res://scripts/core/DebugOverlay.gd"
+
+[debug]
+
+settings/fps/force_fps=0
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=4
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+
+[internationalization]
+
+rendering/text_server="Advanced"
+
+[layer_names]
+
+3d_physics/layer_1="World"
+3d_physics/layer_2="Player1"
+3d_physics/layer_3="Player2"
+3d_physics/layer_4="Hitbox"
+3d_physics/layer_5="Hazard"
+3d_physics/layer_6="Pickup"
+
+[physics]
+
+3d/default_gravity=19.6
+
+[rendering]
+
+renderer/rendering_method="mobile"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/vram_compression/import_etc2_astc=true
+anti_aliasing/quality/msaa_3d=2
+environment/defaults/default_clear_color=Color(0.07, 0.05, 0.1, 1)

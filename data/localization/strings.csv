@@ -1,0 +1,93 @@
+key,ar,en
+play_now,العب دلوقتي,Play Now
+fight,القتال,Fight
+quick_games,ألعاب سريعة,Quick Games
+choose_fighter,اختار مقاتلك,Choose Your Fighter
+profile,شخصيتي,My Profile
+settings,الإعدادات,Settings
+back,ارجع,Back
+rematch,إعادة المباراة,Rematch
+play_again,العب تاني,Play Again
+main_menu,القائمة الرئيسية,Main Menu
+victory,كسبنا!,Victory!
+defeat,يا خسارة!,Defeat
+draw,تعادل!,Draw
+round,الجولة,Round
+round_wins,جولات الفوز,Round Wins
+time_left,الوقت,Time
+hp,الصحة,HP
+energy,الطاقة,Energy
+attack,هجوم,Attack
+ability,قدرة,Ability
+dash,داش,Dash
+ultimate,ألتمت,Ultimate
+block,دفاع,Block
+count_3,٣,3
+count_2,٢,2
+count_1,١,1
+go,يلااا!,GO!
+ko,ضربة قاضية!,K.O.
+fighter_fire,الحارق,Emberfist
+fighter_fire_title,سيد النار,Master of Fire
+fighter_fire_desc,دراع بركانية بتضرب تقيل. بطيء شوية بس الضربة بتوجع.,A volcanic arm that hits heavy. A bit slow but every punch hurts.
+fighter_ice,المجمّد,Frostbound
+fighter_ice_title,ملك التلج,King of Frost
+fighter_ice_desc,دراع كريستال بتجمّد الحركة وبتتحكم في الملعب.,A crystal arm that freezes movement and controls the arena.
+fighter_lightning,البرق,Voltstrike
+fighter_lightning_title,أسرع دراع,Fastest Arm
+fighter_lightning_desc,دراع كهربا سريعة جدا. صحتها قليلة بس محدش بيلحقها.,A lightning-fast electric arm. Low health but nobody catches it.
+fighter_shadow,الطيف,Specter
+fighter_shadow_title,سيد الخداع,Master of Deception
+fighter_shadow_desc,دراع ظل بتختفي وبتعمل نسخ. صعبة بس مرعبة.,A shadow arm that vanishes and clones. Hard to master terrifying to face.
+arena_volcano,معبد البركان,Volcano Temple
+arena_frozen,الأطلال المتجمدة,Frozen Ruins
+arena_storm,برج العاصفة,Storm Tower
+arena_shadow,قلعة الظل,Shadow Citadel
+reaction_start,يلااا! نبتدي!,Let's go!
+reaction_hit,إيه اللي حصل؟!,What just happened?!
+reaction_ult,يا نهار أبيض!,Oh my god!
+reaction_win,كسبنا! يلا نعيدها!,We won! One more!
+reaction_lose,يا خسارة! المرة الجاية بتاعتنا!,Too bad! Next one is ours!
+reaction_what,إنت بتعمل إيه؟!,What are you doing?!
+err_no_room,مفيش روم بالكود ده. اتأكد وحاول تاني.,No room with that code. Check and try again.
+err_match_cant_start,الماتش مش هيبدأ: لازم لاعبين جاهزين.,Can't start: need ready players.
+net_reconnecting,بيحاول يرجع... استنى...,Reconnecting... hold on...
+net_disconnected,اللاعب التاني خرج. تقدر تكمل ضد بوت أو ترجع.,The other player left. You can continue vs bot or go back.
+vs_bot,ضد بوت,vs Bot
+difficulty,الصعوبة,Difficulty
+diff_easy,سهلة,Easy
+diff_normal,عادية,Normal
+diff_hard,صعبة,Hard
+sound,الصوت,Sound
+music,الموسيقى,Music
+sfx,المؤثرات,SFX
+vibration,الاهتزاز,Vibration
+reduce_shake,تقليل اهتزاز الكاميرا,Reduce camera shake
+quality,الجودة,Quality
+quality_low,منخفضة,Low
+quality_medium,متوسطة,Medium
+quality_high,عالية,High
+language,اللغة,Language
+xp_level,المستوى,Level
+rank_rookie,مبتدئ,Rookie
+rank_fighter,مقاتل,Fighter
+rank_challenger,منافس,Challenger
+rank_champion,بطل,Champion
+locked,مقفول,Locked
+cooldown,جاهز بعد,Cooldown
+ult_ready,الألتمت جاهزة!,Ultimate ready!
+ult_charging,الألتمت بتشحن,Ultimate charging
+paused,موقوفة,Paused
+resume,كمل,Resume
+quit,اخرج,Quit
+tap_to_start,دوس عشان تبدأ,Tap to start
+health_low,صحتك قليلة! اهرب!,Low health! Move!
+wins,فوز,Wins
+losses,خسارة,Losses
+bot,بوت,Bot
+game_title,دراع,DRAA
+arena_volcano_desc,أرض صلبة وحمم على الأطراف. اضرب جامد.,Solid ground with lava at the edges. Hit hard.
+arena_frozen_desc,تلج بيزحلق وتلج بيقع من السما. ركّز في الحركة.,Slippery ice and falling shards. Watch your step.
+perfect_dodge,تفاديتها!,Perfect dodge!
+ability_2,قدرة ٢,Ability 2
+decoy_name,ظل,Shade

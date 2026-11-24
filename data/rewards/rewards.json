@@ -1,0 +1,9 @@
+{
+  "titles": [
+    {"id": "rookie", "wins_needed": 0, "ar": "مبتدئ", "en": "Rookie"},
+    {"id": "fire_born", "wins_needed": 1, "ar": "دراع مولع", "en": "Blazing Arm"},
+    {"id": "storm_lord", "wins_needed": 5, "ar": "سيد الصاعقة", "en": "Storm Lord"},
+    {"id": "frost_bite", "wins_needed": 10, "ar": "أبو تجميد", "en": "Deep Freeze"},
+    {"id": "specter", "wins_needed": 20, "ar": "الطيف", "en": "The Specter"}
+  ]
+}

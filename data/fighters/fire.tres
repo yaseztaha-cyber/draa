@@ -1,0 +1,19 @@
+[gd_resource type="Resource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/combat/FighterData.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+fighter_id = &"fire"
+name_key = "fighter_fire"
+title_key = "fighter_fire_title"
+desc_key = "fighter_fire_desc"
+element = &"fire"
+max_hp = 110.0
+move_speed = 5.4
+damage_mult = 1.25
+defense = 0.1
+ability1_id = &"fire_dash"
+ability2_id = &"fire_blast"
+ultimate_id = &"fire_eruption"
+arm_color = Color(1, 0.38, 0.08, 1)

@@ -1,0 +1,33 @@
+{
+  "reflex_targets": {
+    "ar_name": "دراعك فين؟",
+    "en_name": "Where's Your Arm?",
+    "duration": 75.0,
+    "players": [2, 8],
+    "scoring": {"correct": 10, "fast_bonus": 5, "wrong": -10, "miss": 0}
+  },
+  "who_is_real": {
+    "ar_name": "مين الحقيقي؟",
+    "en_name": "Who's Real?",
+    "rounds": 3,
+    "players": [2, 8]
+  },
+  "hot_potato": {
+    "ar_name": "انفجر قبل ما ينفجر",
+    "en_name": "Blow Up First",
+    "duration": 90.0,
+    "players": [3, 8]
+  },
+  "flee_monster": {
+    "ar_name": "اهرب من الوحش",
+    "en_name": "Flee the Beast",
+    "duration": 60.0,
+    "players": [2, 8],
+    "objectives": ["crystals_3", "survive_60", "towers_2", "steal_relic", "repair_portal"]
+  },
+  "party_mode": {
+    "ar_name": "وضع الحفلة",
+    "en_name": "Party Mode",
+    "rounds": ["who_is_real", "reflex_targets", "hot_potato", "flee_monster"]
+  }
+}

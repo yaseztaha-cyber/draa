@@ -1,0 +1,16 @@
+{
+  "fire_dash":   {"element": "fire", "damage": 10.0, "cooldown": 5.0, "range": 6.0, "radius": 2.0, "knockback": 7.0, "stun_time": 0.25, "ult_charge_gain": 15.0, "windup": 0.12, "recover": 0.35, "lunge": 5.0},
+  "fire_blast":  {"element": "fire", "damage": 18.0, "cooldown": 7.0, "range": 4.5, "radius": 2.6, "knockback": 11.0, "stun_time": 0.45, "ult_charge_gain": 22.0, "windup": 0.18, "recover": 0.45, "lunge": 1.5},
+  "fire_eruption": {"element": "fire", "damage": 34.0, "cooldown": 0.0, "range": 6.0, "radius": 4.5, "knockback": 16.0, "stun_time": 0.8, "ult_charge_gain": 0.0, "windup": 0.4, "recover": 0.6, "lunge": 0.0},
+  "ice_wall":    {"element": "ice", "damage": 4.0, "cooldown": 8.0, "range": 3.5, "radius": 3.0, "knockback": 4.0, "stun_time": 0.6, "ult_charge_gain": 15.0, "windup": 0.2, "recover": 0.4, "lunge": 0.0},
+  "ice_blast":   {"element": "ice", "damage": 11.0, "cooldown": 6.0, "range": 5.0, "radius": 2.4, "knockback": 8.0, "stun_time": 0.5, "ult_charge_gain": 20.0, "windup": 0.16, "recover": 0.4, "lunge": 1.5},
+  "ice_prison":  {"element": "ice", "damage": 26.0, "cooldown": 0.0, "range": 5.5, "radius": 4.0, "knockback": 6.0, "stun_time": 1.4, "ult_charge_gain": 0.0, "windup": 0.35, "recover": 0.55, "lunge": 0.0},
+  "volt_dash":   {"element": "lightning", "damage": 8.0, "cooldown": 4.0, "range": 7.5, "radius": 1.8, "knockback": 6.0, "stun_time": 0.2, "ult_charge_gain": 15.0, "windup": 0.1, "recover": 0.3, "lunge": 6.5},
+  "volt_chain":  {"element": "lightning", "damage": 13.0, "cooldown": 6.5, "range": 6.0, "radius": 3.2, "knockback": 7.0, "stun_time": 0.35, "ult_charge_gain": 22.0, "windup": 0.14, "recover": 0.38, "lunge": 1.0},
+  "volt_storm":  {"element": "lightning", "damage": 30.0, "cooldown": 0.0, "range": 7.0, "radius": 5.0, "knockback": 12.0, "stun_time": 0.6, "ult_charge_gain": 0.0, "windup": 0.38, "recover": 0.55, "lunge": 0.0},
+  "shadow_strike": {"element": "shadow", "damage": 14.0, "cooldown": 5.5, "range": 5.0, "radius": 2.0, "knockback": 9.0, "stun_time": 0.4, "ult_charge_gain": 20.0, "windup": 0.14, "recover": 0.36, "lunge": 3.5},
+  "shadow_clone": {"element": "shadow", "damage": 0.0, "cooldown": 9.0, "range": 0.0, "radius": 0.0, "knockback": 0.0, "stun_time": 0.0, "ult_charge_gain": 18.0, "windup": 0.2, "recover": 0.3, "lunge": 0.0},
+  "shadow_realm": {"element": "shadow", "damage": 32.0, "cooldown": 0.0, "range": 6.0, "radius": 4.5, "knockback": 10.0, "stun_time": 1.0, "ult_charge_gain": 0.0, "windup": 0.38, "recover": 0.55, "lunge": 0.0},
+  "light_punch": {"element": "none", "damage": 8.0, "cooldown": 0.45, "range": 2.6, "radius": 1.4, "knockback": 5.0, "stun_time": 0.22, "ult_charge_gain": 8.0, "windup": 0.08, "recover": 0.22, "lunge": 0.0},
+  "heavy_punch": {"element": "none", "damage": 14.0, "cooldown": 0.9, "range": 2.8, "radius": 1.6, "knockback": 10.0, "stun_time": 0.4, "ult_charge_gain": 14.0, "windup": 0.16, "recover": 0.4, "lunge": 1.2}
+}

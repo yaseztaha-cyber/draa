@@ -1,0 +1,5 @@
+{
+  "fire_tornado": {"ar": "إعصار النار", "en": "Fire Tornado", "elements": ["fire", "wind"]},
+  "storm_prison": {"ar": "سجن الصاعقة", "en": "Storm Prison", "elements": ["ice", "lightning"]},
+  "shadow_flame": {"ar": "لهب الظلال", "en": "Shadow Flame", "elements": ["fire", "shadow"]}
+}
